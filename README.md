@@ -1,5 +1,13 @@
-# shopify-ruby-giftbasket
+# shopify-ruby-giftbasket 
 
+## Warning ⚠️ 
+
+This is an outdated code example which is intended to complement [this guide](https://help.shopify.com/en/api/tutorials/build-a-shopify-app-with-ruby-and-sinatra).
+
+If you are interested in learning how to create Shopify applications using Sinatra, please see [`shopify-basic-sinatra`](https://github.com/jamiemtdwyer/shopify-basic-sinatra).
+
+
+## Getting Started
 This is an example Shopify application written in Sinatra solely for the purposes of introducing new developers to the Shopify API.
 
 This example uses a `.env` file to store the application credentials. After cloning the repository, you'll need to create a file named `.env` in the same folder. The contents of the file should be as follows:
